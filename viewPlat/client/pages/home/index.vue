@@ -16,7 +16,7 @@
         </el-menu-item>
         <el-menu-item index="/home/template-list">
           <i class="el-icon-s-shop"></i>
-          <span slot="title">我的的发的非人非模板</span>
+          <span slot="title">我的的发的非人法人股如果非模板</span>
         </el-menu-item>
       </el-menu>
     </div>
